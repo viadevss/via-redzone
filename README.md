@@ -1,3 +1,3 @@
 # VIA REDZONE
 
-Change coords and radius and start.
+Change coords and Radius and start.
